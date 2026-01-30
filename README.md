@@ -75,7 +75,7 @@ The assistant behaves like a **Statistical Learning tutor**, responding conversa
 
 ---
 
-## 📂 Project Stages
+##  Project Stages
 
 ### 1. Data Ingestion
 - Upload PDF to Azure Blob Storage
@@ -116,4 +116,3 @@ The assistant behaves like a **Statistical Learning tutor**, responding conversa
 
 
 
-Feel free to ⭐ this repository if you find it useful!
